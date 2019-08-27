@@ -3,6 +3,7 @@ Tomcat application that shows the use of RDS in a Java EE web application in AWS
 
 #1
 #2
+#3
 
 ## INSTRUCTIONS
 Install the Java 8 JDK. The java compiler is required to run the build script.
